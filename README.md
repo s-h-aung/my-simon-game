@@ -4,5 +4,6 @@ ref : wikipedia
 
 #This is my version of Simon Game
 
-#live site: https://liam10011001.github.io/my-simon-game/
+#live site: https://liam10011001.github.io/my-simon-game/ 
+</br>
 (If you face trouble loading the site, please, try to reload using VPN)
